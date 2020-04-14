@@ -1,0 +1,24 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "razor": "html",
+        "plaintext": "pug"
+    },
+    "emmet.preferences": {
+        "filter.commentAfter": "\n<!-- /[#ID][.CLASS] -->",
+        "css.webkitProperties": "border-right,animation",
+    "css.mozProperties": "",
+    "css.oProperties": null,
+    "css.msProperties": null
+    },
+    "emmet.syntaxProfiles": {
+        "html": {
+            "filters": "bem"
+        }
+    },
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly",
+    
+}
